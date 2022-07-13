@@ -1,0 +1,14 @@
+hr.line {
+    border: 1px solid rgb(202, 49, 22);
+}
+
+.mySlides {display:none}
+
+.slide-btn{
+    color: #000080;
+    background-color: transparent;
+    border-radius: 100px;
+    border: 2px solid #000080;
+    padding: 20px;
+    
+}
